@@ -10,7 +10,7 @@ import plotly.graph_objects as go
 
 # Configure page - MUST be first Streamlit command
 st.set_page_config(
-    page_title="Insight AI",
+    page_title="CoreLex",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded"
